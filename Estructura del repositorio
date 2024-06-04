@@ -1,0 +1,81 @@
+Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con `do while`. A continuación se detalla la ubicación de cada uno de los ejercicios: 
+1. Suma de los dígitos de un número
+. "For":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/1._SumaDigitos%20de%20Nfor
+. "While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/1._SumaDigitos%20de%20Nwhile
+. "Do While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/1._SumaDigitos%20de%20Ndowhile
+2. Inverso de un número
+."For":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/2._InversoNfor
+. "While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/2._InversoNwhile
+. "Do While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/2._Inversodowhile
+3. Potencia mediante sumas sucesivas
+."For":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/3._PotenciaSfor
+. "While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/3._PotenciaSwhile
+. "Do While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/3._PotenciaSdowhiile
+4. Radicación mediante restas sucesivas
+."For":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/4._RadicacionSfor
+. "While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/4._RadicacionSwhile
+"Do While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/commit/7ec2c0cdd2a61aa34d2e4788b6f8d040580ba6c5
+5. Serie de Fibonacci
+. "For": https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/5._SerieFibonaccifor
+   . "While": https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/5._SerieFibonacciwhile
+   . "Do While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/5._Seriefibonaccidowhile
+6. Factorial de un número
+. "For":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/6._FactorialNfor
+. "While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/6._FactorialNwhile
+ . "Do While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/6._FactorialNdowhile
+7. Suma de una serie aritmética
+. "For":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/7._SerieAritmeticafor
+. "While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/7._SerieAritmeticawhile
+ . "Do While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/7._SerieAritmeticadowhile
+8. Producto de una serie geométrica
+. "For":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/8._Productoseriefraccionesfor
+. "While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/8._Productoseriefraccioneswhile
+ . "Do While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/8._Productosseriefraccionesdowhile
+9. Número de dígitos de un número
+. "For":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/9._SumaNfor
+. "While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/9.SumaNwhile
+ . "Do While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/9._SumaNdowhile
+10. Verificar si un número es primo
+. "For":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/10%20VerificacionNprimofor
+. "While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/10._VerificacionNprimowhile
+ . "Do While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/10%20VerificacionNprimodowhile
+11. Encontrar el MCD (Máximo Común Divisor)
+. "For":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/11._Encontrar%20el%20MCDfor
+. "While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/11._Encontrar%20el%20MCDwhile
+ . "Do While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/11._Encontrar%20el%20MCDdowhile
+12. Sumar los números impares hasta n
+. "For":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/12._Nimpareshastanfor
+. "While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/12._Nimpareshastanwhile
+ . "Do While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/12._Npareshastandowhile
+13. Sumar los números pares hasta n
+. "For":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/13._Npareshastanfor
+. "While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/13._Npareshastanwhile
+ . "Do While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/13._Npareshastandowhile
+14. Suma de los cuadrados de los primeros n 
+. "For":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/14._Sumacuadradosnfor
+. "While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/14._Sumacuadradosnwhile
+ . "Do While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/14,_Sumacuadradosdowhile
+15. Suma de los cubos de los primeros n números
+. "For":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/15._Sumacubosnfor
+. "While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/15%2C_Sumacubosnwhile
+ . "Do While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/15._Sumacubosndowhile
+16. Suma de una serie de números fraccionarios
+. "For":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/16._Sumaseriefraccionesfo
+. "While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/16._Sumaseriefraccioneswhile
+ . "Do While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/16._Sumaseriefraccionesdowhile
+17. Producto de una serie de números fraccionarios
+. "For":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/17._Productoseriefraccionesfor
+. "While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/17._Productoseriefraccioneswhile
+ . "Do While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/17._Productosseriefraccionesdowhile
+18. Contar los números primos hasta n
+. "For":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/18._ContarNPrimofor
+. "While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/18._ContarNprimo%20do%20while
+ . "Do While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/19.-CalcularnesimoNtriangulardowhile
+19. Calcular el n-ésimo número triangular
+. "For":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/19._CalcularnesimoNtriangularfor
+. "While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/19._CalcularnesimoNtriangularwhile
+ . "Do While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/19.-CalcularnesimoNtriangulardowhile
+20. Calcular la suma de los factoriales de los primeros n números
+. "For":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/20._CalcularSumadefactorialesnfor
+. "While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/20._CalcularSumadefactorialesnwhile
+ . "Do While":https://github.com/alejrs7/Tarea_programacion-_estructura-for-while-do-while/blob/main/20._CalcularSumadefactorialesndowhile
